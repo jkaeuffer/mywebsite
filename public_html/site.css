@@ -1,0 +1,57 @@
+body {
+	font-family: "Avenir Next", Helvetica;
+	font-size: 100%;
+}
+.top-menu {
+	text-align: center;
+	/*margin: auto;*/
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #0B0000;
+	font-size: 1.5em;
+}
+
+.top-menu ul {
+	list-style-type: none;
+}
+
+.top-menu li {
+	display: inline;
+	/*text-align: center;*/
+	margin: 15px;
+	color: #F8F8F8;
+}
+
+.top-menu a {
+	color: #F8F8F8;
+	text-decoration: none;
+}
+
+.container-home {
+	/*margin: auto;*/
+	padding-top: 40px;
+	padding-bottom: 20px;
+	background-color: #F8F8F8;
+	text-align: center;
+}
+
+.container-title-home {
+	font-size: 2em;
+	/*width: auto;*/
+	padding-bottom: 20px;
+
+}
+
+.container-links-home li {
+	display: inline;
+	margin: 15px;
+}
+
+.home-body {
+	background-color: #F8F8F8;
+	padding: 5px;
+	text-align: center;
+
+}
+
+/*color palettes: http://www.colourlovers.com/palette/1375103/La_Tour_1911_APC*/
