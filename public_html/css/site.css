@@ -46,6 +46,13 @@ body {
 
 }
 
+.body-frame {
+	margin: 50px 100px 50px 200px;
+	width: auto;
+	padding-left: 10px;
+	border-left: solid;
+	border-color: #D0D0D0;
+}
 .container-links-home li {
 	display: inline;
 	margin: 15px;
@@ -56,11 +63,11 @@ body {
 
 }
 .home-body ol {
-text-align:center;
+text-align:justify;
 list-style-position:inside;
 }
 .home-body ul {
-text-align:center;
+text-align:justify;
 list-style-position:inside;
 }
 .home-body a{
