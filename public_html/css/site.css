@@ -10,6 +10,7 @@ body {
 	padding-bottom: 10px;
 	background-color: #0B0000;
 	font-size: 1.5em;
+	width: 100%;
 }
 
 .top-menu ul {
@@ -37,13 +38,6 @@ body {
 	padding-top: 40px;
 	padding-bottom: 20px;
 	text-align: center;
-}
-
-.container-title-home {
-	font-size: 2em;
-	/*width: auto;*/
-	padding-bottom: 20px;
-
 }
 
 .body-frame {
