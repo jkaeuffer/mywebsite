@@ -19,9 +19,7 @@ body {
 
 .top-menu li {
 	display: inline;
-	/*text-align: center;*/
 	margin: 15px;
-	color: #F8F8F8;
 }
 
 .top-menu a {
@@ -29,9 +27,17 @@ body {
 	text-decoration: none;
 }
 
-.classy-divider {
-	height: 3px;
-	background-color: #D0D0D0 ;
+.classy-divider-red {
+	height: 2px;
+	background-color: #e75a6a;
+	margin: auto;
+	width: 75%;
+}
+.classy-divider-blue {
+	height: 2px;
+	background-color: #459aba ;
+	margin: auto;
+	width: 75%;
 }
 .container-home {
 	/*margin: auto;*/
